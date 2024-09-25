@@ -1,4 +1,4 @@
-name: flutter_plugin_tools
+name: shared_preferences
 description: Productivity and CI utils for flutter/packages
 repository: https://github.com/flutter/packages/tree/main/script/tool
 version: 1.0.0
